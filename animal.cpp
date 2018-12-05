@@ -3,7 +3,6 @@
  * Date 3/25/16
  * Description: This is a program that will tell you what your favorite animal
  * is after you tell it what your favorite animal is.
- * adding to github.
  * **/
 
 #include <iostream>
