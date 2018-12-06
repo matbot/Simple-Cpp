@@ -1,7 +1,4 @@
 /************************************************************
- *						fallDistance
- * Author: Mathew McDade
- * Date: Wed Apr 20 16:22:33 PDT 2016
  * Function Description: This function takes time in seconds 
  * and returns distance in meters that an object would fall 
  * in that amount of time.
