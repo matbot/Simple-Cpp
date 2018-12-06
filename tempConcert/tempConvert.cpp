@@ -1,6 +1,4 @@
 /*************************************
-**Author: Mathew McDade
-**Date: Tue Mar 29 17:23:07 PDT 2016
 **Desription: This program will take a temperature in Celsius and output the temperature converted to Fahrenheit.
 *************************************/
 
