@@ -1,7 +1,4 @@
 /**********************************************
- * 				hailstone
- * Author: Mathew McDade
- * Date: Wed Apr 20 16:24:16 PDT 2016
  * Function Description: This function
  * takes a positive integer arguement 
  * and passes it through a series of 
