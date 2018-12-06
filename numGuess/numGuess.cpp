@@ -1,6 +1,4 @@
 /*************************************
- * **Author: Mathew McDade
- * **Date: Tue Apr 12 17:35:33 PDT 2016
  * **Desription: This program will ask the user to enter a secret number and then let the user guess that number. It will provide feedback indicating whether a guess is too low, too high, or correct. If correct, the program will also indicate how many times the user guessed before guessing correctly.
  * *************************************/
 
