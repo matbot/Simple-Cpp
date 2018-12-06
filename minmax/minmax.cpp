@@ -1,9 +1,5 @@
 //************************************
-//Name: Mathew McDade
-//Date: Sun Apr 10 16:23:24 PDT 2016 
 //Description: This program takes a user-defined number of integers and returns the minimum and maximum of those integers.******//
-
-
 
 #include <iostream> //Should only need iostream header.
 using std::cin;
