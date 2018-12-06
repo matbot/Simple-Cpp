@@ -1,6 +1,4 @@
 /*********************************************
- * Author: Mathew McDade
- * Date: Tue Apr 26 16:12:42 PDT 2016
  * Description: This is the BankAccount class
  * declaration. It includes all member
  * variables and functions.
