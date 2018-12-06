@@ -1,6 +1,4 @@
 /*************************************
-**Author: Mathew McDade
-**Date: Tue Apr 19 16:53:07 PDT 2016
 **Desription: This program passes three int values, passes them to a function, smallSort, by reference, and returns those values in order from smallest to largest.
 *************************************/
 
