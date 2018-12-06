@@ -2,7 +2,7 @@
  * Description: BankAccount class member
  * function implementation section.
  * *************************************/
-#include "BankAccount.hpp"
+#include "bankAccount.hpp"
 #include <string>
 #include <iostream>
 using namespace std;
