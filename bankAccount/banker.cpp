@@ -13,20 +13,20 @@ int main()
 		withdraw;
 
 
-	cout << "Plees how many dollas?" << endl;
+	cout << "How many dollars are currently in the account?" << endl;
 	cin >> balance;
 
-	BankAccount mats("Mathew McDade", "numbah 1", balance);
+	BankAccount mats("Mr. M", "Acct 1", balance);
 
-	cout << "How much dem depositin?" << endl;
+	cout << "How much will you deposit?" << endl;
 	cin >> deposit;
 	mats.deposit(deposit);
 
-	cout << "How much dem needs outin?" << endl;
+	cout << "How much will you withdrawal?" << endl;
 	cin >> withdraw;
 	mats.withdraw(withdraw);
 
-	cout << "You " << mats.getCustomerName() << " ID, " << mats.getCustomerID() << " has gots " << mats.getCustomerBalance() << " dollas!!!!" << endl;
+	cout << "You " << mats.getCustomerName() << ", ID " << mats.getCustomerID() << " now have " << mats.getCustomerBalance() << " dollars." << endl;
 
 return 0;
 }
