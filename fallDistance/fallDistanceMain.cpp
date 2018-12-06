@@ -1,6 +1,4 @@
 /*********************************************************************
-**Author: Mathew McDade
-**Date: Tue Apr 19 15:28:52 PDT 2016
 **Desription: This program takes will ask the user to input the time, 
 * in seconds, that an object has fallen. The program will then take 
 * that amount of time, pass it to a function named fallDistance, and 
