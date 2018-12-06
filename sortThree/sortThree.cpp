@@ -1,7 +1,4 @@
 /***************************************
- * 		smallSort
- * Author: Mathew McDade
- * Date: Wed Apr 20 16:23:35 PDT 2016
  * Function Description: This function takes
  * three int values by reference and returns
  * those values in ascending order.
