@@ -1,6 +1,4 @@
 /****************************************
- * Author: Mathew McDade
- * Date: Tue Apr 26 16:30:38 PDT 2016
  * Description: BankAccount class member
  * function implementation section.
  * *************************************/
