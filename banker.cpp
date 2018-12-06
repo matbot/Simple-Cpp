@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "BankAccount.hpp"
+#include "bankAccount.hpp"
 
 using namespace std;
 
