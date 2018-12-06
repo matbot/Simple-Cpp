@@ -1,6 +1,4 @@
 /*************************************
- * **Author: Mathew McDade
- * **Date: Tue Apr 12 16:54:43 PDT 2016
  * **Desription: This program will ask the user for a file name, attempt to open
  * the named file containing a list of integers, take the sum of those integers,
  * and output that sum to a file named sum.txt.
