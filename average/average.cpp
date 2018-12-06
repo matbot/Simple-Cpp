@@ -1,6 +1,4 @@
 /*************************************
-**Author: Mathew McDade
-**Date: Tue Mar 29 15:59:31 PDT 2016
 **Desription: This program will take five integers from standard input and return the average of those integers to standard output.
 *************************************/
 
