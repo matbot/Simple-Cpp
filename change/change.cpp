@@ -1,6 +1,4 @@
 /*************************************
-**Author: Mathew McDade
-**Date: Tue Mar 29 17:47:59 PDT 2016
 **Desription: This program will take a number of cents and outputs how many of each type of coin are necessary to make that change with the fewest coins possible.
 *************************************/
 
