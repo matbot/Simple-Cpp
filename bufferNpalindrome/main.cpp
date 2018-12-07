@@ -1,6 +1,5 @@
 /*********************************************
  * *Author: Mathew McDade
- * *Date: Sat Nov 26 03:58:32 PST 2016
  * *Description: The Main Method
  * *********************************************/
 #include "buffer.hpp"

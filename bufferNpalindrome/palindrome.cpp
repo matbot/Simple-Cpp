@@ -1,6 +1,5 @@
 /********************************************
  * *Author: Mathew McDade
- * *Date: Sat Nov 26 03:59:37 PST 2016
  * *Description: Palindrome implementation.
  * *****************************************/
 #include "palindrome.hpp"

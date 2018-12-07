@@ -1,6 +1,5 @@
 /******************************************
  * *Author: Mathew McDade
- * *Date: Sat Nov 26 03:58:57 PST 2016
  * *Description: Palindrome class header.
  * ***************************************/
 #ifndef MMCD_PALINDROME_HPP

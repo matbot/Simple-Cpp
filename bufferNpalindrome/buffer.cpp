@@ -1,6 +1,5 @@
 /*********************************************
  * *Author: Mathew McDade
- * *Date: Sat Nov 26 04:02:03 PST 2016
  * *Description: Buffer class implementation.
  * ******************************************/
 #include "buffer.hpp"

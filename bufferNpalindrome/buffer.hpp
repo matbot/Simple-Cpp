@@ -1,6 +1,5 @@
 /***************************************
  * *Author: Mathew McDade
- * *Date: Sat Nov 26 04:00:18 PST 2016
  * *Description: Buffer class header.
  * ************************************/
 #ifndef MMCD_BUFF_HPP
