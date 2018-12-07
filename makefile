@@ -1,8 +1,8 @@
 #######################################################
 # Student: Mathew McDade
 # # File: Makefile
-# # Description: CS 162 Assignment 1 makefile
-# # Date: Sun Oct  9 12:05:48 PDT 2016
+# # Generic C++ makefile file. Produces executable ./prog
+# on make. make clean removes executable and object files.
 # #####################################################
 
  #CXX and FLAGS
