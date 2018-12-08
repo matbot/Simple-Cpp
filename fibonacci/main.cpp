@@ -1,6 +1,5 @@
 /*********************************************
  * *Author: Mathew McDade
- * *Date: Sat Dec  3 16:04:43 PST 2016
  * *Description: The main method.
  * Includes mechanism to measure time elapsed 
  * for each function Fib function call.

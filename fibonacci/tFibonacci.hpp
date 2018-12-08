@@ -2,7 +2,6 @@
 #define MMCD_TFIB_HPP
 /************************************************************************************
  * *Author: Mathew McDade
- * *Date: Sat Dec  3 16:05:13 PST 2016
  * *Description: Fibonacci number generator functions.
  * Adapted from examples found at:
  * https://www.codeproject.com/tips/109443/fibonacci-recursive-and-non-recursive-c
