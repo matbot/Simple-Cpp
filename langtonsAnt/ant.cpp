@@ -119,6 +119,6 @@ void Ant::antRun()
 			 bord->clearBoard();
 			 bord->printBoard();
 			 cout << "Current Step: " << currentStep << endl;
-			 usleep(bord->getSize()*2500);
+			 usleep(bord->getSize()*200);
 	   }
 }
