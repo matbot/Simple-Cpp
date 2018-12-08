@@ -1,6 +1,5 @@
 /*******************************************
  * *Author: Mathew McDade
- * *Date: Sun Oct 16 16:52:25 PDT 2016
  * *Description: Game Class implementation
  * *****************************************/
 

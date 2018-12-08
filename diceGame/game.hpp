@@ -1,6 +1,5 @@
 /****************************************
  * *Author: Mathew McDade
- * *Date: Sun Oct 16 16:43:10 PDT 2016
  * *Description: Game Class header.
  * *************************************/
 #ifndef MMCD_GAME_HPP

@@ -1,6 +1,5 @@
 /******************************************
  * *Author: Mathew McDade
- * *Date: Sun Oct 16 16:23:59 PDT 2016
  * *Description: Die Class implementation.
  * ***************************************/
 

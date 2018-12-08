@@ -1,6 +1,5 @@
 /***********************************************
  * *Author: Mathew McDade
- * *Date: Sun Oct 16 15:55:28 PDT 2016
  * *Description: Die Class header.
  * ********************************************/
 #ifndef MMCD_DIE_HPP
