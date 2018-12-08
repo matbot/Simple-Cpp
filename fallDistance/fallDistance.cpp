@@ -1,7 +1,7 @@
 /************************************************************
  * Function Description: This function takes time in seconds 
  * and returns distance in meters that an object would fall 
- * in that amount of time.
+ * in that amount of time given vaccuum conditions.
 ************************************************************/
 #include <cmath>
 
