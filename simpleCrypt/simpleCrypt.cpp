@@ -29,7 +29,7 @@ int main()
 			 {
 				    for(int counterI=0;counterI<10;counterI++)
 						  cout << cryptValues[counterI];
-				    cout << "                                YAY!";
+				    cout << "                                YAY!" << endl;
 			 }
 			 else
 			 {
@@ -37,7 +37,7 @@ int main()
 				    if(cycleCounter==3628800)
 				    {
 						keyFound = true;
-						cout << "Nope";
+						cout << "Nope" << endl;
 				    }
 			 }
 		}
