@@ -8,11 +8,11 @@ int main()
 {
 	Point p1;
 	double x, y;
-	cout<<"give him dose cords:"<<endl;
+	cout<<"Enter an x and y coordinate:"<<endl;
 	cin >> x >> y;
 
 	Point p2(x, y);
 	double dist = p1.distanceTo(p2);
-	cout << dist;
+	cout <<"Length of line segment between your point and 0,0: "<< dist << endl;
 return 0;
 }
