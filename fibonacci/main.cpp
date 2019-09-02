@@ -2,7 +2,8 @@
  * *Author: Mathew McDade
  * *Description: The main method.
  * Includes mechanism to measure time elapsed 
- * for each function Fib function call.
+ * for each function Fib function call, iterative
+ * vs. recursive algorithms.
  * *********************************************/
 #include "tFibonacci.hpp"
 
